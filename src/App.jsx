@@ -448,7 +448,7 @@ export default function App() {
           </p>
           <h3 className="rsvp-info-title">RSVP</h3>
           <p className="rsvp-info-message">
-            We hope you can celebrate with us on this wonderful moment in our lives. Kindly respond by until March 1, 2026.<br />
+            We hope you can celebrate with us on this wonderful moment in our lives. Kindly respond until March 1, 2026.<br />
             <strong>Invited guests only.</strong><br />
             Please contact us thru our Facebook Messenger.
           </p>
